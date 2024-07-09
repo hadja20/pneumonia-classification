@@ -3,3 +3,6 @@ matplotlib-inline
 numpy
 imblearn
 tensorflow
+scikit-learn
+pandas
+
